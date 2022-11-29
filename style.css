@@ -30,6 +30,10 @@ header {
   padding: 16px;
 }
 
+.intro-chunk .title {
+  padding-block: 16px;
+}
+
 .intro-chunk strong {
   color: hsl(160deg, 100%, 30%);
 }
